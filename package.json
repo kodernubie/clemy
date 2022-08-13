@@ -15,11 +15,15 @@
   ],
   "author": "kodernubie",
   "license": "MIT",
-   "bugs": {
+  "bugs": {
     "url": "https://github.com/kodernubie/clemy/issues"
   },
   "homepage": "https://github.com/kodernubie/clemy#readme",
   "devDependencies": {
     "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "font-awesome": "^4.7.0"
   }
 }

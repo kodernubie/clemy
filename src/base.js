@@ -1,3 +1,5 @@
+import "bulma/css/bulma.css"
+import "font-awesome/css/font-awesome.css"
 import {EventEmitter} from "./eventemitter"
 
 class BaseComponent extends EventEmitter {

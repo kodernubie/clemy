@@ -1,3 +1,5 @@
+import "font-awesome/css/font-awesome.css";
+
 function $parcel$export(e, n, v, s) {
   Object.defineProperty(e, n, {get: v, set: s, enumerable: true, configurable: true});
 }
@@ -186,6 +188,7 @@ class $efb1577351e04c62$export$d8e9c9d63e86d41e extends (0, $5c447b097a3f2944$ex
 var $8857867ee3ddfad5$exports = {};
 
 $parcel$export($8857867ee3ddfad5$exports, "BaseComponent", () => $8857867ee3ddfad5$export$55ae5207ce896a6b);
+
 
 class $8857867ee3ddfad5$export$55ae5207ce896a6b extends (0, $5c447b097a3f2944$export$4fae95256245c8c0) {
     constructor(parent, config){

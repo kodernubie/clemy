@@ -1,3 +1,5 @@
+require("font-awesome/css/font-awesome.css");
+
 function $parcel$exportWildcard(dest, source) {
   Object.keys(source).forEach(function(key) {
     if (key === 'default' || key === '__esModule' || dest.hasOwnProperty(key)) {
@@ -202,6 +204,7 @@ class $0133037ebbed7ac1$export$d8e9c9d63e86d41e extends (0, $3a31aff190e3e4d0$ex
 var $daf0bd654fa6a73f$exports = {};
 
 $parcel$export($daf0bd654fa6a73f$exports, "BaseComponent", () => $daf0bd654fa6a73f$export$55ae5207ce896a6b);
+
 
 class $daf0bd654fa6a73f$export$55ae5207ce896a6b extends (0, $3a31aff190e3e4d0$export$4fae95256245c8c0) {
     constructor(parent, config){
