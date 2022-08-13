@@ -1,0 +1,25 @@
+{
+  "name": "clemy-ui",
+  "version": "1.0.0",
+  "description": "Javascript UI framework. Using programmatic approach like delphi/vb",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodernubie/clemy.git"
+  },
+  "keywords": [
+    "javascript",
+    "ui"
+  ],
+  "author": "kodernubie",
+  "license": "MIT",
+   "bugs": {
+    "url": "https://github.com/kodernubie/clemy/issues"
+  },
+  "homepage": "https://github.com/kodernubie/clemy#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
